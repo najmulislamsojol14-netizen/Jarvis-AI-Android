@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JARVIS AI</string>
+    <string name="accessibility_service_description">JARVIS Accessibility Service for Auto-Click and WhatsApp Automation</string>
+</resources>
